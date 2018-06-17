@@ -1,0 +1,24 @@
+{
+  "name": "react-practice",
+  "version": "0.0.1",
+  "description": "Project for Building an Interface based on a React Course on Lynda.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alefl10/react-practice"
+  },
+  "author": "Alejandro Ferrero",
+  "devDependencies": {
+    "gulp": "^3.8.8",
+    "gulp-browserify": "^0.5.1",
+    "gulp-react": "^3.1.0",
+    "gulp-webserver": "^0.8.8",
+    "jshint-stylish": "^1.0.0",
+    "lodash": "^4.13.1",
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0",
+    "reactify": "^1.1.1"
+  },
+  "dependencies": {
+    "prop-types": "^15.6.1"
+  }
+}
